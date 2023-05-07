@@ -1,34 +1,13 @@
-- 👋 Hi, Myself Sumit Nauiyal
-- BscIt graduate in 2021
--  ✨ ✨ ✨ 
-- 👀 I’m interested in ...
-👀 AI,Deep Learning and Nltk
-👀Backend With Django
-👀Rest Api With DjangoRestFramework
-👀DataAnalysis
-� ✨AR Technology
- ✨ ✨ ✨
-
-I am a Fresher for solving problems using machine learning algorithms. Currently is developing experience and knowledge in the fascinating field of data science and deep learning aspiring to contribute as a long-term goal to develop key pillar to build novel smart-prosthetics with the use of data and cutting edge technology.
-
-i know other programming, framework  also :
-1 Django With RestApi
-2 React.js
-3 Html,Css,Javascript
- ✨ ✨ ✨ ✨ 
-
-- 🌱 I’m currently learning ...
-machine learning and deep learning
-- 💞️ I’m looking to collaborate on ...
-- opencv projects ,Data analysis and NLP project
-
-
-- 📫 How to reach me ...👀
- my linked in profile :: https://www.linkedin.com/in/sumit-nautiyal-/
- my gmail:sumitnautiyal446@gmail.com
- ✨ ✨ ✨ 
-
-<!---
-sumitnn/sumitnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️
+Hey how are you ,myself sumit I hope you are all right. 
+I am a BSC.IT graduate with experience in Web-Development,Python, Django, backend , REST API.
+Currenlty Working as a Junior Full Stack developer in  a startup company.
+Experienced with working in a team-based environment and highly motivated to develop successful software solutions.
+I am learning new skills like UI design, Flutter and React.js
+Interested in contributing to the development of smart prosthetics through cutting-edge technology. 
+Reach me via LinkedIn, Gmail, Kaggle and Github.👀
+linked in  :: https://www.linkedin.com/in/sumit-nautiyal-/
+gmail:sumitnautiyal446@gmail.com
+kaggle : https://www.kaggle.com/sumitnautiyal
+github : https://github.com/sumitnn
+⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️
