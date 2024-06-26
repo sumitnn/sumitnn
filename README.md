@@ -12,4 +12,6 @@ kaggle : https://www.kaggle.com/sumitnautiyal
 
 github : https://github.com/sumitnn
 
+portfolio: https://sumitnautiyal.netlify.app/
+
 ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️
